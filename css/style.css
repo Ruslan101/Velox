@@ -1,0 +1,268 @@
+.mc {
+	width: max-content;
+	height: max-content;
+}
+img {
+	cursor: pointer;
+}
+.nexa {
+	font-family: Nexa light !important;
+}
+.font-s-12 {
+	font-size: 12px;
+}
+.font-s-48 {
+	font-size: 48px;
+}
+.navbar {
+	box-shadow: none;
+}
+.nav-item > a {
+	color: black !important;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-family: ProximaNova Light;
+}
+.nav-item > a:hover {
+	background-color: rgba(0,0,0,.1);
+	border-radius: 5px;
+}
+.x_220 {
+	max-width: 220px;
+}
+.x_220 > img {
+	align-self: center
+}
+.x_220 > p {
+	text-align: center;
+}
+.navbar-brand {
+	margin-right: 23%;
+	color: black;
+	font-family: MyriadPro-Regular;
+	font-size: 48px;
+}
+.navbar-brand:hover {
+	color: black;
+}
+.dropdown-item:hover {
+	color: white;
+	background-color: #007bff;
+}
+.navbar-nav {
+	margin-right: 0px;
+}
+#intro {
+	background: url("../img/nightCity.jpeg") no-repeat center center fixed;
+	height: 410px;
+	width: 100%;
+}
+.font-PNR {
+	font-family: ProximaNova Regular;
+	color: black;
+	font-size: 14px;
+}
+.font-PNL {
+	font-family: ProximaNova Light;
+	color: #9d9d9d;
+	font-size: 14px;
+}
+.f-PNL {
+	font-family: ProximaNova Light;
+}
+.wcu {
+	background-color: #f9f9f9;
+}
+.fs-23 {
+	font-size: 23px;
+}
+.fs-14 {
+	font-size: 14px;
+}
+.fs-12 {
+	font-size: 12px;
+}
+.x_432 {
+	color: #545454;
+	max-width: 635px;
+	align-self: center;
+}
+.x_628 {
+	position: relative;
+}
+.x_162 {
+	color: #74818a;
+}
+.x_582 > div {
+	max-width: 320px;
+}
+.x_582 > div > div {
+	border: 1px #e9e9e9 solid;
+	border-bottom: #e9e9e9 solid 2px;
+}
+.x_582 > div > div > p:first-of-type {
+	color: #555555;
+	margin: 15px 0px 10px;
+}
+.x_582 > div > div > p:last-of-type {
+	color: #c6c7c9;
+	margin-bottom: 18px;
+}
+.f-PNSB {
+	font-family: ProximaNova Semibold;
+}
+.x_519 {
+	text-align: left;
+}
+.postTitle {
+	font-family: ProximaNova Semibold;
+}
+.postContent {
+	color: #9c9c9c;
+}
+.postBtn {
+	font-family: ProximaNova Light;
+	font-size: 11px;
+	color: white;
+	background-color: #1275b9;
+	border-radius: 5px;
+	border: none;
+	height: 26px;
+}
+.container {
+	margin-left: auto;
+	margin-right: auto;
+}
+.x_12 > img {
+	align-self: center;
+	margin: 5px 10px;
+}
+.x_362 > p {
+	font-size: 18px;
+	color: #666666;
+	max-width: 485px;
+}
+.x_362  > button {
+	font-family: ProximaNova Light;
+	color: white;
+	font-size: 18px;
+	background-color: #1275b9;
+	height: 48px;
+	width: 130px;
+	border: 1px solid #1275b9;
+}
+.x_362  > button:hover {
+	border-color: #262626;
+}
+footer {
+	background-color: #262626;
+	color: #a5a5a5;
+}
+.footerCopy {
+	background-color: #1e1e1e;
+	height: 55px;
+	color: #a5a5a5;
+	font-family: ProximaNova Light;
+	font-size: 13px;
+}
+.cursor-pointer {
+	cursor: pointer;
+}
+.footer-column > h5 {
+	color: white;
+	margin-top: 50px !important;
+	text-align: left;
+	font-family: ProximaNova Semibold;
+	font-size: 14px;
+}
+.footer-column > ul {
+	text-align: left;
+}
+.x_204 {
+	font-family: ProximaNova Regular;
+	font-size: 14px;
+	margin-bottom: 5px !important;
+}
+.x_204 ~ p {
+	color: #626262;
+	font-family: ProximaNova Light;
+	font-size: 10px;
+	margin-bottom: 15px;
+}
+.x_692 {
+	font-family: Nexa light !important;
+	font-size: 48px !important;
+}
+.footer-column > p {
+	text-align: left;
+	font-family: ProximaNova Light;
+	font-size: 14px;
+}
+.footer-column > .media > img {
+	height: 13px;
+	margin-right: 16px;
+}
+.footer-column > .media > div > p:first-of-type {
+	font-size: 14px;
+	font-family: ProximaNova Regular;
+	margin-bottom: 5px;
+}
+.x_510 > p {
+	font-family: ProximaNova Light;
+	font-size: 12px;
+}
+.footer-column > .media > div > p:last-of-type {
+	color: #353e49;
+	font-size: 12px;
+}
+.footer-column > .media > div {
+	text-align: left;
+}
+.footer-column > .media > div > p > span {
+	color: #7ac2f3;
+}
+.x_502:hover {
+	background-color: white !important;
+}
+@font-face {
+	src: url("../font/Nexa/Nexa Light.otf");
+	font-family: Nexa light;
+}
+@font-face {
+	src: url("../font/Proxima Nova/ProximaNova Light.ttf");
+	font-family: ProximaNova Light;
+}
+@font-face {
+	src: url("../font/Proxima Nova/ProximaNova Regular.ttf");
+	font-family: ProximaNova Regular;
+}
+@font-face {
+	src: url("../font/Myriad Pro/MyriadPro-Regular.ttf");
+	font-family: MyriadPro-Regular;
+}
+@font-face {
+	src: url("../font/Proxima Nova/ProximaNova Semibold.ttf");
+	font-family: ProximaNova Semibold;
+}
+@media screen and (max-width: 768px) { /* md */
+	.x_582, .x_519 {
+		justify-content: center !important;
+	}
+	.x_582 > div, .x_519 > div {
+		margin-bottom: 30px !important;
+	}
+	.x_362 > p {
+		margin-bottom: 20px !important;
+	}
+}
+@media screen and (max-width: 576px) { /* sm */
+	.x_582 {
+		margin-bottom: 0px !important;
+	}
+	.x_519 {
+		text-align: center;
+	}
+	.x_362 > p {
+		text-align: center;
+	}
+}
